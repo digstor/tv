@@ -200,3 +200,13 @@ https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Start World
 https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
+#EXTINF:0,Eurosport 1
+http://178.212.71.253:8000/play/143/index.m3u8
+#EXTINF:0,Eurosport 2 HD
+http://5.188.159.128:8070/eurosport2/index.m3u8
+#EXTINF:0,Start Air HD
+https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
+#EXTINF:0,Театр
+http://93.125.121.61:8383/play/Intelsat85k1214
+#EXTINF:0,The World
+http://87.246.60.6:11035?token=fas-tv.com
