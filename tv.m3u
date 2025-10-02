@@ -247,3 +247,42 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checked
 #EXTINF:0,music_ DeepHouse District
 #EXTVLCOPT:network-caching=1000
 https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+#EXTINF:0,sport_ Diema Sport 2 HD BG
+#EXTVLCOPT:network-caching=1000
+http://213.169.39.30:5136
+#EXTINF:0,sport_ Diema Sport 3 HD BG
+#EXTVLCOPT:network-caching=1000
+http://213.169.39.30:5216
+#EXTINF:0,sport_ Diema Sport HD BG
+#EXTVLCOPT:network-caching=1000
+http://213.169.39.30:5134
+#EXTINF:0,sport_ Dubai Sports 1
+#EXTVLCOPT:network-caching=1000
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:0,sport_ Dubai Sports 2
+#EXTVLCOPT:network-caching=1000
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:0,sport_ Dubai Sports 3
+#EXTVLCOPT:network-caching=1000
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:0,music_ MTV
+#EXTVLCOPT:network-caching=1000
+http://87.246.60.6:11003?token=fas-tv.com
+#EXTINF:0,sport_ ESPN
+#EXTVLCOPT:network-caching=1000
+http://181.188.216.5:18000/play/a0ch/index.m3u8
+#EXTINF:0,sport_ ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://181.188.216.5:18000/play/a0jz/index.m3u8
+#EXTINF:0,sport_ ESPN 3
+#EXTVLCOPT:network-caching=1000
+http://181.188.216.5:18000/play/a0bg/index.m3u8
+#EXTINF:0,sport_ ESPN 4
+#EXTVLCOPT:network-caching=1000
+http://181.188.216.5:18000/play/a0bh/index.m3u8
+#EXTINF:0,sport_ ESPN 5
+#EXTVLCOPT:network-caching=1000
+http://181.188.216.5:18000/play/a0ml/index.m3u8
+#EXTINF:0,sport_ ESPN 7
+#EXTVLCOPT:network-caching=1000
+http://181.188.216.5:18000/play/a0pg/index.m3u8
