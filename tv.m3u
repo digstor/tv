@@ -7,14 +7,13 @@ http://tv.ttk.mx:9148
 http://tv.ttk.mx:9172
 #EXTINF:0,Cinema
 http://tv.ttk.mx:9053
-http://tv.ttk.mx:9020
-#EXTINF:0,TV XXI
+#EXTINF:0,kino_ TV XXI
 http://tv.ttk.mx:9067
-#EXTINF:0,TV1000
+#EXTINF:0,kino_ TV1000
 http://tv.ttk.mx:9181
-#EXTINF:0,TV1000 Action
+#EXTINF:0,kino_ TV1000 Action
 http://tv.ttk.mx:9182
-#EXTINF:0,TV1000 Русское Кино
+#EXTINF:0,kino_ TV1000 Русское Кино
 http://tv.ttk.mx:9183
 #EXTINF:0,Viasat DaVinci
 http://tv.ttk.mx:9188
@@ -24,11 +23,11 @@ http://tv.ttk.mx:9184
 http://tv.ttk.mx:9185
 #EXTINF:0,Viasat Nature
 http://tv.ttk.mx:9186
-#EXTINF:0,Viasat Sport
+#EXTINF:0,sport_Viasat Sport
 http://tv.ttk.mx:9187
-#EXTINF:0,А1
+#EXTINF:0,kino_А1
 http://tv.ttk.mx:9155
-#EXTINF:0,А2
+#EXTINF:0,kino_ А2
 http://tv.ttk.mx:9156
 #EXTINF:0,Авто 24
 http://tv.ttk.mx:9031
@@ -66,55 +65,55 @@ http://tv.ttk.mx:9048
 http://tv.ttk.mx:9076
 #EXTINF:0,Канал 8
 http://tv.ttk.mx:9134
-#EXTINF:0,Кино ТВ
+#EXTINF:0,kino_ Кино ТВ
 http://tv.ttk.mx:9046
-#EXTINF:0,Кино ТВ HD
+#EXTINF:0,kino_ Кино ТВ HD
 http://tv.ttk.mx:9113
-#EXTINF:0,Киномикс
+#EXTINF:0,kino_ Киномикс
 http://tv.ttk.mx:9199
-#EXTINF:0,Кинопоказ
+#EXTINF:0,kino_ Кинопоказ
 http://tv.ttk.mx:9150
-#EXTINF:0,Кинопремьера
+#EXTINF:0,kino_ Кинопремьера
 http://tv.ttk.mx:9162
-#EXTINF:0,Киносвидание
+#EXTINF:0,kino_ Киносвидание
 http://tv.ttk.mx:9164
-#EXTINF:0,Киносемья
+#EXTINF:0,kino_ Киносемья
 http://tv.ttk.mx:9161
-#EXTINF:0,Киноужас
+#EXTINF:0,kino_ Киноужас
 http://tv.ttk.mx:9193
-#EXTINF:0,Кинохит
+#EXTINF:0,kino_ Кинохит
 http://tv.ttk.mx:9163
-#EXTINF:0,Комедия
+#EXTINF:0,kino_ Комедия
 http://tv.ttk.mx:9050
 #EXTINF:0,Крым 1
 http://tv.ttk.mx:9132
 #EXTINF:0,Легендарный 24
 http://tv.ttk.mx:9179
-#EXTINF:0,ММА
+#EXTINF:0,sport_ ММА
 http://tv.ttk.mx:9196
-#EXTINF:0,Матч АРЕНА
+#EXTINF:0,sport_ Матч АРЕНА
 http://tv.ttk.mx:9153
-#EXTINF:0,Матч ИГРА
+#EXTINF:0,sport_ Матч ИГРА
 http://tv.ttk.mx:9152
-#EXTINF:0,Матч Премьер
+#EXTINF:0,sport_ Матч Премьер
 http://tv.ttk.mx:10000
-#EXTINF:0,Матч СТРАНА
+#EXTINF:0,sport_ Матч СТРАНА
 http://tv.ttk.mx:9154
-#EXTINF:0,Матч ТВ
+#EXTINF:0,sport_ Матч ТВ
 http://tv.ttk.mx:9002
-#EXTINF:0,Матч ТВ HD
+#EXTINF:0,sport_ Матч ТВ HD
 http://tv.ttk.mx:9094
-#EXTINF:0,Матч футбол1 HD
+#EXTINF:0,sport_ Матч футбол1 HD
 http://tv.ttk.mx:9114
-#EXTINF:0,Матч футбол1 SD
+#EXTINF:0,sport_ Матч футбол1 SD
 http://tv.ttk.mx:9108
-#EXTINF:0,Матч футбол2 HD
+#EXTINF:0,sport_ Матч футбол2 HD
 http://tv.ttk.mx:9115
-#EXTINF:0,Матч футбол2 SD
+#EXTINF:0,sport_ Матч футбол2 SD
 http://tv.ttk.mx:9111
-#EXTINF:0,Матч футбол3 HD
+#EXTINF:0,sport_ Матч футбол3 HD
 http://tv.ttk.mx:9116
-#EXTINF:0,Матч футбол3 SD
+#EXTINF:0,sport_ Матч футбол3 SD
 http://tv.ttk.mx:9112
 #EXTINF:0,Миллет
 http://tv.ttk.mx:9021
@@ -188,45 +187,48 @@ http://tv.ttk.mx:9073
 http://tv.ttk.mx:9151
 #EXTINF:0,Уникум
 http://tv.ttk.mx:9026
-#EXTINF:0,Футбол
+#EXTINF:0,sport_ Футбол
 http://tv.ttk.mx:9065
-#EXTINF:0,Футбол 3
+#EXTINF:0,sport_ Футбол 3
 http://185.57.68.33:80/110/index.m3u8
-#EXTINF:0,Vipmegahit HD
+#EXTINF:0,kino_ Vipmegahit HD
 http://46.8.46.14/vipmegahit/index.m3u8
-#EXTINF:0,Best of Dance TV
+#EXTINF:0,music_ Best of Dance TV
 https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:0,Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Start World
 https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
-#EXTINF:0,Eurosport 1
+#EXTINF:0,sport_ Eurosport 1
 http://178.212.71.253:8000/play/143/index.m3u8
-#EXTINF:0,Eurosport 2 HD
+#EXTINF:0,sport_ Eurosport 2 HD
 http://5.188.159.128:8070/eurosport2/index.m3u8
 #EXTINF:0,Start Air HD
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:0,Театр
 http://93.125.121.61:8383/play/Intelsat85k1214
-#EXTINF:0,Ring HD
+#EXTINF:0,sport_ Ring HD
 http://87.246.60.6:11035?token=fas-tv.com
 #EXTINF:0,Vivid Red HD
 http://103.49.40.100:30010/VIVIDREDHD
-#EXTINF:0,Polsat Music
+#EXTINF:0,music_Polsat Music
 http://103.49.40.100:27014/POLSATMUSICHD
-#EXTINF:0,Amedia Hit
+#EXTINF:0,kino_ Amedia Hit
 http://158.101.222.193:88/georgia_play.php?id=amediahit
-#EXTINF:0,Amedia Hit HD
+#EXTINF:0,kino_ Amedia Hit HD
 http://93.125.121.61:8383/play/Intelsat85k1410
-#EXTINF:0,Amedia Premium
+#EXTINF:0,kino_ Amedia Premium
 http://158.101.222.193:88/georgia_play.php?id=amediapremium
-#EXTINF:0,Amedia Premium HD
+#EXTINF:0,kino_ Amedia Premium HD
 http://93.125.121.61:8383/play/Intelsat85k812
-#EXTINF:0,Amedia 1
+#EXTINF:0,kino_ Amedia 1
 http://93.125.121.61:8383/play/a02m
-#EXTINF:0,Amedia 1 kz
+#EXTINF:0,kino_ Amedia 1 kz
 http://sc.id-tv.kz/A1.m3u8
-#EXTINF:0,Amedia 2
+#EXTINF:0,kino_ Amedia 2
 http://sc.id-tv.kz/A2_36_37.m3u8
-#EXTINF:0,Amedia 2 HD
+#EXTINF:0,kino_ Amedia 2 HD
 http://93.125.121.61:8383/play/Intelsat85k503
+#EXTINF:0,sport_ START SPORT TV
+#EXTVLCOPT:network-caching=1000
+http://185.236.230.212:9982/play/a09r
