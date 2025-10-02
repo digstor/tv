@@ -373,3 +373,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=626
 #EXTINF:0,sport_ GOLF CHANNEL
 #EXTVLCOPT:network-caching=1000
 http://185.236.230.212:9982/play/a08b
+#EXTINF:0,sport_ Glory Kickboxing
+#EXTVLCOPT:network-caching=1000
+https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
